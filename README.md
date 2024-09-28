@@ -1,2 +1,1 @@
-Netlify তে deploy করার পরেও css কাজ করছে না।
-live link - https://funny-lebkuchen-100308.netlify.app/
+live link - https://first-tailwind-project-jet.vercel.app/
